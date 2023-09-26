@@ -16,8 +16,9 @@ DELETE: It is used to delete records from a database table.<br>
 </div>
 
 ## Create the table as given below:
-![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/057d8315-879d-4bb9-8cce-d2e5c5a930d7)
-
+```sql
+create table manager(enumber number(6),ename char(15),salary number(5),commission number(4),annualsalary number(7),Hiredate date,designation char(10),deptno number(2),reporting char(10));
+```
 
 ## insert the following values into the table
 ```sql
