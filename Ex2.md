@@ -51,8 +51,10 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 ### QUERY:
 
+![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/efef081a-dee4-41dc-9c85-7346b9d034f0)
 
 ### OUTPUT:
+![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/3ac4d2af-ada2-4677-b530-b917949b9b53)
 
 ### Q5)	List the names of Clerks from emp table.
 
