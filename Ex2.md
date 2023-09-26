@@ -65,18 +65,23 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 
 ### QUERY:
+![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/b1f05e5a-a309-424e-b910-cb103f5413e3)
 
 
 ### OUTPUT:
+![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/f8bc5ab3-f99d-400e-aa3f-c1f6c4a06c5d)
+
 
 
 ### Q6)	List the names of employee who are not Managers.
 
 
 ### QUERY:
+![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/01b12f80-95f7-431c-95a7-4470c12c4a72)
 
 
 ### OUTPUT:
+![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/0cf2a6ad-398f-4d29-bebb-c31a84334347)
 
 
 ### Q7)	List the names of employees not eligible for commission.
