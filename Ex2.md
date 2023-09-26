@@ -16,7 +16,8 @@ DELETE: It is used to delete records from a database table.<br>
 </div>
 
 ## Create the table as given below:
-![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/04ec2336-a069-4c06-93c3-8b6fd04626c0)
+![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/057d8315-879d-4bb9-8cce-d2e5c5a930d7)
+
 
 ## insert the following values into the table
 ```sql
@@ -29,9 +30,11 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 ### Q1) Update all the records of manager table by increasing 10% of their salary as bonus.
 
 ### QUERY:
+****![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/fcd66cfd-a608-4bd1-8caf-9f8a433e21a1)
 
 
 ### OUTPUT:
+![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/1d2858ac-abd8-4d85-bc61-23c0906ce52d)
 
 ### Q2) Delete the records from manager table where the salary less than 2750.
 
